@@ -195,7 +195,9 @@ The following provides a short overview:
 * `test_runner.py` - Runs the test suite with all test cases
 
 ## Authors
+* [Jannis Wolf](mailto:jannis.wolf@fau.de)
 * [Richard Müller](mailto:richard.mueller@senacor.com)
 * [Christian Neuhaus](mailto:christian.neuhaus@senacor.com)
 * [Jonas Holtkamp](mailto:jonas.holtkamp@senacor.com)
 * [Janusz Tymoszuk](mailto:janusz.tymoszuk@senacor.com)
+
